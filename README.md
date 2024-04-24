@@ -1,4 +1,4 @@
-*Ensemble Learning: Multi-Modal MRI Image Classification using Combined DenseNet-VGG19 Model*
+***Ensemble Learning: Multi-Modal MRI Image Classification using Combined DenseNet-VGG19 Model***
 
 **Overview:**
 This repository contains code for a multi-modal MRI image classification approach utilizing a combined DenseNet-VGG19 model, delving into the realm of ensemble learning. The code is designed to:
